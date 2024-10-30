@@ -1,4 +1,5 @@
-**Indian License Plate Detection using YOLOv10**
+**Indian License Plate Detection using YOLOv10** 
+
 This project focuses on detecting Indian license plates from images using the YOLOv10 model. This repository includes code for setting up, training, and evaluating a YOLOv10-based object detection model on a dataset of Indian license plates. Below are the key features and steps involved in the project.
 
 **Project Structure**
